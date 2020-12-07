@@ -1,0 +1,23 @@
+.hidden {
+    visibility: hidden;
+}
+
+.visible {
+    visibility: visible;
+}
+
+button:hover {
+    background-color: #61dafb;
+}
+
+label {
+    margin: 3px;
+}
+
+input {
+    margin: 3px;
+}
+
+form {
+    margin: 30px 0;
+}

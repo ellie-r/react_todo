@@ -1,0 +1,21 @@
+.complete {
+    background-color: #E0F0E3;
+}
+
+.complete:hover {
+    background-color: mediumspringgreen;
+}
+
+.delete {
+    background: #ff6961;
+}
+
+.delete:hover {
+    background: red;
+}
+
+button {
+    border: none;
+    border-radius: 12px;
+    padding: 8px;
+}
